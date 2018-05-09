@@ -59,6 +59,10 @@ a:focus, a:hover {
   background-color: black;
 }
 
+.nav-link {
+  color:#000;
+}
+
 #mainNav .navbar-toggler {
   font-size: 14px;
   padding: 11px;
@@ -124,7 +128,7 @@ a:focus, a:hover {
   padding: 200px 0;
   text-align: center;
   color: white;
-  background: url("../img/intro-bg.jpg") no-repeat bottom center scroll;
+  background: url("../img/top2.jpg") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -186,7 +190,7 @@ a:focus, a:hover {
 
 .download-section {
   color: white;
-  background: url("../img/downloads-bg.jpg") no-repeat center center scroll;
+  background: url("../img/mid2.jpg") no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
